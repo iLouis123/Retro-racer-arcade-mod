@@ -1,6 +1,6 @@
 # Retro-racer-arcade-mod
 
-List of material :
+# Heading 1 List of material :
 <li>Raspberry pi zero 2w : <a target="_blank" href="https://amzn.to/4lgQEOj">Link</a></li>
 <li>Waveshare LCD Screen HDMI 3.5" : <a target="_blank" href="https://amzn.to/3FTRwrY">Link</a></li>
 <li>Hdmi adapter : <a target="_blank" href="https://amzn.to/4lgQEOj">Link</a></li>
